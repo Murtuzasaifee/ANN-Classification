@@ -9,6 +9,7 @@ dependencies = [
     "matplotlib>=3.10.1",
     "numpy<2.0.0",
     "pandas>=2.2.3",
+    "scikeras>=0.13.0",
     "scikit-learn>=1.6.1",
     "streamlit>=1.44.1",
     "tensorboard>=2.19.0",
