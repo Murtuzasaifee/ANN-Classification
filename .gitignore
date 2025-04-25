@@ -10,3 +10,4 @@ wheels/
 .venv
 to_be_removed/
 logs/
+regressionlogs/
